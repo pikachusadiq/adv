@@ -7,6 +7,7 @@ public class Test2 {
 
 		
 		   System.out.println("samir ra uthuni");
+		   System.out.println("assu  ra kariparuni tara choto");
 	}
 
 }
