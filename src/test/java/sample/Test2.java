@@ -6,8 +6,8 @@ public class Test2 {
 		System.out.println("kuch nahi");
 
 		
-		   System.out.println("samir ra uthuni");
-		   System.out.println("assu  ra kariparuni tara choto");
+		   System.out.println("samir");
+		   System.out.println("assu ");
 	}
 
 }
